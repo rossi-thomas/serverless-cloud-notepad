@@ -4,6 +4,6 @@ compatibility_date = "2022-05-13"
 
 
 kv_namespaces = [
-  { binding = "NOTES", id = "17c1b5ead7f3494e9e12ed85e55d0eb0" },
-  { binding = "SHARE", id = "0939f00fdfe84514ae1f9bf541a8ca6b" }
+  { binding = "NOTES", id = "98caf9149a334b9091e28c5c496fe4e6" },
+  { binding = "SHARE", id = "08f333f6ca05479b87bc589806adebda" }
 ]
